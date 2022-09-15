@@ -1,5 +1,10 @@
 ### Hi everyone  
 
+- 🔭 I’m currently working from home
+- 🌱 I’m currently carrer with Middleware engineer and PaaS, eg.
+- 👯 I’m looking for help with remote work
+- 📫 How to reach me: present.h7s@gmail.com
+
 <br/>-   I’m currently working from home<br/>-   Email: present.h7s@gmail.com<br/>- Career: Middleware engineer、PaaS
 <hr>
 <h3 align="left">Languages and Tools:</h3>
