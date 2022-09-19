@@ -1,7 +1,7 @@
 ### Hello everyone  
 
 - 🔭 I’m currently working from home
-- 🌱 I’m currently carrer with Middleware engineer and PaaS(v0.0 - )
+- 🌱 I’m currently carrer with Middleware engineer and PaaS( v0.0 - nowadays )
 - 👯 I’m looking for help with remote work
 - 📫 How to reach me: present.h7s@gmail.com
 
