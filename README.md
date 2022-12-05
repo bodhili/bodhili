@@ -1,5 +1,5 @@
 ### Hi there  
 
-- 🌱 I’m currently carrer with Middleware Engineer
+- 🌱 I am currently a Middleware Engineer and have 7 years of work experience
 - 👯 I’m looking for help with remote work
 - 🔭 Repositories: https://github.com/shallow-rs
