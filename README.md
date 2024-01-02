@@ -4,4 +4,4 @@ My passion is coding for solutions in the open source realm. No project is to bi
 - 🌱 I am an engineer specialized in middleware and infrastructure, with 7 years of software programming experience
 - 👯 I am currently seeking a remote job (Java / Go)
 - 🔭 I specialize in system performance and observability
-- 👯 shallowx: https://github.com/orgs/shallowx/repositories
+- 👯 show me my code: https://github.com/shallowx
