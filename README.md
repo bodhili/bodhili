@@ -6,6 +6,6 @@ My passion is coding for solutions in the open source realm. No project is to bi
   
 - 👯  I’m looking to collaborate on any project
   
-- 👨‍💻 All of my projects are available at https://github.com/shallowx
+- 👨‍💻 All of my projects are available at https://github.com/shallowx, and the most commonly used programming languages ​​are Java and Go
   
 - 📫 How to reach me ybodhili@gmail.com
