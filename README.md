@@ -5,8 +5,6 @@ My passion is coding for solutions in the open source realm. No project is to bi
 - 🔭 I focus on middleware, distributed systems, system performance, system stability, Observability and other fields
   
 - 👯  I’m looking to collaborate on any project
-  
-- 👨‍💻 All of my projects are available at https://github.com/shallowx
 
 - 👯 The most commonly used programming languages ​​are Java and Go and Python
   
