@@ -10,4 +10,3 @@ My passion is coding for solutions in the open source realm. No project is to bi
 
 - 👯 The most commonly used programming languages ​​are Java and Go and Python
   
-- 📫 How to reach me ybodhili@gmail.com
