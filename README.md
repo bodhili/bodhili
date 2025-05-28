@@ -1,10 +1,7 @@
-My passion is coding for solutions in the open source realm. No project is to big or small as long as it helps move us forward!
+### Hi there! 👋
+I'm passionate about creating solutions in the open source world. No project is too big or too small—as long as it helps push technology forward, I'm in.
 
-### Hi there  
-
-- 🔭 I focus on middleware, distributed systems, system performance, system stability, Observability and other fields
-  
-- 👯  I’m looking to collaborate on any project
-
-- 👯 The most commonly used programming languages ​​are Java and Go and Python
+- 🔭 My focus areas include middleware, distributed systems, system performance, stability, and observability.
+- 👯 I'm always open to collaboration on meaningful projects.
+- 💻 My most frequently used programming languages are Java, Go, and Python.
   
