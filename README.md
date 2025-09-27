@@ -3,5 +3,5 @@ I'm passionate about creating solutions in the open source world. No project is 
 
 - 🔭 Focus areas include middleware, distributed systems, system performance, stability, and observability.
 - 👯 Always open to collaboration on meaningful projects.
-- 💻 Most frequently used programming languages are Java, Go, and Python.
+- 💻 Most frequently used programming languages are Java, Go, Rust and Python.
   
