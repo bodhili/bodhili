@@ -4,7 +4,7 @@ I'm passionate about creating solutions in the open source world. No project is 
 # 🌟 About Me
 - 🧑‍💻 Open Source, infrastructure architecture and developer workflows
 - 🛠️ Experienced in Containerization, network, the spring ecosystem, tokio and modern microservice eg
-- 🌐 Topics | Foucs on infrastructure architecture and open-source tools,cloud-native observability
+- 🌐 Topics | Foucs on infrastructure architecture and open-source tools, cloud-native observability
 
 # 🛠 Tech stack
 - Languages: Java, Go, Rust, C++, Python, Shell
